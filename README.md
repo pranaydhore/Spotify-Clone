@@ -24,7 +24,6 @@ This project is a fully responsive and animated **Spotify Clone** built using **
 ├── spotify.css           # Main styles
 ├── script.js             # JavaScript functionality (future updates)
 └── README.md             # Documentation
-```
 
 ## 📜 Code Snippet (Navigation Bar)
 ``html
@@ -74,3 +73,4 @@ This project is inspired by Spotify's official web player UI. All images and ico
 
 ---
 ### 📌 Stay tuned for updates & enhancements! 🚀
+**![Spotify Project Poster](Spotify.jpg)**
